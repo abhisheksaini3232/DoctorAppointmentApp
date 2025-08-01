@@ -19,9 +19,9 @@ A modern web application built with Next.js and Tailwind CSS for booking doctor 
 ## 📸 Screenshots
 
 ![Dashboard Screenshot](./test/public/dashboard_screenshot.png)
-![Booking Screen](./public/booking_screenshot.png)
-![Patient Details Screen](./public/patient_details_screenshot.png)
-![Schedule Session Screen](./public/schedule_session_screenshot.png)
+![Booking Screen](./test/public/booking_screenshot.png)
+![Patient Details Screen](./test/public/patient_details_screenshot.png)
+![Schedule Session Screen](./test/public/schedule_session_screenshot.png)
 
 ## 🛠 Technology Stack
 
