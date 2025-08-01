@@ -25,8 +25,8 @@ A modern web application built with Next.js and Tailwind CSS for booking doctor 
 
 ## 🛠 Technology Stack
 
-- Next.js (App Router)
-- React (with hooks and functional components)
+- Next.js 
+- React 
 - TypeScript
 - Tailwind CSS
 - Heroicons
